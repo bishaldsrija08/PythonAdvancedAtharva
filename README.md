@@ -1,1 +1,1 @@
-"# PythonAdvancedAtharva" 
+## Day 1: Pytnon basics (Operators, Data types, Variables, and conditions)
