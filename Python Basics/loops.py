@@ -1,3 +1,4 @@
+#  Loops: Loops are used to execute a block of code repeatedly until a certain condition is met.
 # Print my name 1000 times
 for i in range(1000):
     print("My name is Bishal Rijal.")

@@ -1,10 +1,18 @@
 # Function
 # A function is a block of code that performs a specific task.
 
+# Syntax:
+# def function_name(parameters):
+#     # function body
+#     return value
+
 
 # function with no parameters and no return values
 def greet():  # Function definition
     print("Hello, welcome to the function tutorial!")
+    greet() # Function call
+
+
 greet()  # Function call
 
 

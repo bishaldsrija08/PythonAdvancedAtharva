@@ -1,9 +1,9 @@
-# age = 15
+age = 15
 
-# if age>16:
-#     print("You are eligible to get citizenship")
-# else:
-#     print("You are not eligible to get citizenship")
+if age>16:
+    print("You are eligible to get citizenship")
+else:
+    print("You are not eligible to get citizenship")
 
 
 # WAP to check wheter you're child, teenager or adult
