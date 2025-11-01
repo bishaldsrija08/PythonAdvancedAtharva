@@ -5,3 +5,5 @@
 ## Day 3: Functions (function definition, function call, parameters, return values, lambda functions, recursion and lambda functions)
 
 ## Day 4: Decorators (function decorators)
+
+## Day 5: Working with JSON (JSON module, parsing JSON data, reading and writing JSON files)
