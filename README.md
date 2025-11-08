@@ -7,3 +7,5 @@
 ## Day 4: Decorators (function decorators)
 
 ## Day 5: Working with JSON (JSON module, parsing JSON data, reading and writing JSON files)
+
+## Day 6: Working with API's (requests module, making get api calls, handling responses)
