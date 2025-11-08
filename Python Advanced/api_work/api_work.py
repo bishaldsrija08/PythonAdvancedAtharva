@@ -10,3 +10,5 @@ if response.status_code==200:
     data = response.json()
     description = data['weather'][0]['description']
     print(f"Weather in {city}: {description}")
+else:
+    print("City not found.")
