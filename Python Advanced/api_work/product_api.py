@@ -1,3 +1,4 @@
+# API to fetch product data and display prices
 import requests
 
 api_url = "https://690f18d6bd0fefc30a06b965.mockapi.io/product/"
