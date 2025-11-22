@@ -11,3 +11,5 @@
 ## Day 6: Working with API's (requests module, making get api calls, handling responses)
 
 ## Day 7: Data visualization (matplottlib)
+
+## Day 8: Debugging teachniques and Date and Time Manipulation (datetime module, date and time formatting, date arithmetic, time zones, debugging example)
