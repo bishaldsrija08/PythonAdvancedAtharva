@@ -13,3 +13,5 @@
 ## Day 7: Data visualization (matplottlib)
 
 ## Day 8: Debugging teachniques and Date and Time Manipulation (datetime module, date and time formatting, date arithmetic, time zones, debugging example)
+
+## day 9: OOP in python (Classes, objecets, and methods)
