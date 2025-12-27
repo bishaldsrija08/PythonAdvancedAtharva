@@ -1,4 +1,4 @@
-# Mnay forms means polymorphism
+# Many forms means polymorphism
 
 # name = "Bishal Rijal"
 
