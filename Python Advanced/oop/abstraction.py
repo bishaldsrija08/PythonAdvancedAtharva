@@ -1,3 +1,4 @@
+# Abstraction in Python is the process of hiding implementation details and showing only essential features using abstract classes and abstract methods.
 from abc import ABC, abstractmethod
 
 class Vehicle (ABC):
