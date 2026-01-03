@@ -1,3 +1,4 @@
+# Encapsulation in Python using private attributes and getter/setter methods
 class Person:
     def __init__(self, name, age):
         self.__name = name # Private attribute
