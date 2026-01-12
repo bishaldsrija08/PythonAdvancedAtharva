@@ -36,3 +36,8 @@ def load_tasks(filename="./tasks.json"):
 if choice == "1":
     task = input("Enter your task: ")
     add_task(task)
+
+if choice == "2":
+    tasks = load_tasks()
+    for task in tasks["tasks"]:
+        print(f"{task['id']}. {task['task']} - {task['status']}")
