@@ -1,0 +1,14 @@
+{
+    "1": {
+        "book_id": "1",
+        "title": "python",
+        "author": "br",
+        "status": "available"
+    },
+    "2": {
+        "book_id": "2",
+        "title": "ser=o",
+        "author": "an",
+        "status": "available"
+    }
+}
