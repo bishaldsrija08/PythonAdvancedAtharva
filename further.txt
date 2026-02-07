@@ -1,0 +1,200 @@
+📅 30-Day Python Practice Plan (Class 7)
+Day 1 – Python Basics (Easy)
+
+Write a Python program to print “Hello, Python!”
+
+Write a program to print your name, class, and school on separate lines.
+
+Day 2 – Variables (Easy)
+
+Create variables for name, age, and favorite color, then print them.
+
+Store two numbers in variables and print their sum.
+
+Day 3 – Datatypes (Easy)
+
+Create variables of type int, float, string, and boolean and print their types.
+
+Convert an integer to a float and print the result.
+
+Day 4 – Input & Output (Easy → Medium)
+
+Take the user’s name as input and print “Welcome, <name>”.
+
+Take two numbers from the user and print their addition and multiplication.
+
+Day 5 – Conditional Statements (Easy)
+
+Write a program to check whether a number is positive or negative.
+
+Check whether a number is even or odd.
+
+Day 6 – Conditional Statements (Medium)
+
+Take marks from the user and print Pass if marks ≥ 40, else Fail.
+
+Find the largest of two numbers.
+
+Day 7 – Conditional Statements (Hard)
+
+Find the largest of three numbers.
+
+Create a simple grade system (A, B, C, Fail).
+
+Day 8 – Loops (Easy)
+
+Print numbers from 1 to 10 using a loop.
+
+Print your name 5 times using a loop.
+
+Day 9 – Loops (Medium)
+
+Print all even numbers from 1 to 50.
+
+Print the multiplication table of 5.
+
+Day 10 – Loops (Hard)
+
+Calculate the sum of numbers from 1 to 100.
+
+Find the factorial of a number using a loop.
+
+Day 11 – Nested Loops (Easy)
+
+Print a square pattern:
+
+****
+****
+****
+****
+
+
+Print numbers pattern:
+
+1
+12
+123
+
+Day 12 – Nested Loops (Medium)
+
+Print a right-angled triangle of *.
+
+Print this pattern:
+
+1
+22
+333
+
+Day 13 – Nested Loops (Hard)
+
+Print a pyramid pattern of *.
+
+Print reverse number pattern:
+
+321
+21
+1
+
+Day 14 – Functions (Easy)
+
+Create a function to add two numbers.
+
+Create a function to print “Good Morning”.
+
+Day 15 – Functions (Medium)
+
+Create a function to check whether a number is even or odd.
+
+Create a function to find the square of a number.
+
+Day 16 – Functions (Hard)
+
+Create a function to find the largest of three numbers.
+
+Create a function to print the multiplication table of a given number.
+
+Day 17 – Recursion (Easy)
+
+Write a recursive function to print numbers from 1 to 5.
+
+Write a recursive function to calculate sum of first N numbers.
+
+Day 18 – Recursion (Medium)
+
+Find the factorial of a number using recursion.
+
+Print numbers from N to 1 using recursion.
+
+Day 19 – Recursion (Hard)
+
+Find the nth Fibonacci number using recursion.
+
+Count the number of digits in a number using recursion.
+
+Day 20 – NumPy (Easy)
+
+Create a NumPy array of 5 numbers and print it.
+
+Find the sum of elements in a NumPy array.
+
+Day 21 – NumPy (Medium)
+
+Find the maximum and minimum value in an array.
+
+Multiply all elements of an array by 2.
+
+Day 22 – NumPy (Hard)
+
+Create a 2D array and print its shape.
+
+Find the average of array elements.
+
+Day 23 – Pandas (Easy)
+
+Create a DataFrame with name and marks.
+
+Display only the marks column.
+
+Day 24 – Pandas (Medium)
+
+Find the average marks from a DataFrame.
+
+Filter students who scored more than 50 marks.
+
+Day 25 – Pandas (Hard)
+
+Read student data from a CSV file.
+
+Sort students by marks in descending order.
+
+Day 26 – Matplotlib (Easy)
+
+Plot a line graph of numbers from 1 to 10.
+
+Label the x-axis and y-axis.
+
+Day 27 – Matplotlib (Medium)
+
+Plot a bar graph of students and their marks.
+
+Change the title of the graph.
+
+Day 28 – Matplotlib (Hard)
+
+Plot marks of 5 students and add grid lines.
+
+Plot two lines on the same graph.
+
+Day 29 – OOP in Python
+
+Create a class Student with name and age, then display details.
+
+Create a class Calculator with add and subtract methods.
+
+Day 30 – Mini Projects 🎯
+
+Mini Project 1:
+Build a Student Marks Management System using lists/dictionaries.
+
+Mini Project 2:
+Create a Simple Library System using OOP (Book, User, issue/return).
